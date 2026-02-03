@@ -15,3 +15,6 @@ Dự án được xây dựng theo hướng MVP, tập trung vào trải nghiệ
 
 Vai trò: Frontend Developer / Product Thinker
 Mục tiêu: Portfolio + luyện tư duy PM & Product Design
+
+#🏷️ Slogan
+“Choose the right design for your fabric.”
